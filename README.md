@@ -1,4 +1,4 @@
-# Lab
+# Lab Report
 NUAA University lab report!
 
 A* solves the 8-Puzzle problem
